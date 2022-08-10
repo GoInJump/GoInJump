@@ -5,7 +5,7 @@
 <br>
 
 <!-- Tech Stack -->
-<div align=center><h2>✍ stack </h2></div>
+<div align=center><h2>✍ Tech stack </h2></div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
@@ -20,8 +20,18 @@
 
 <!-- Contact -->
 <div align=center><h2>🙏 contact </h2></div>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wayne-hwang-0b6aba172/](https://www.linkedin.com/in/wayne-hwang-0b6aba172/))]([https://www.linkedin.com/in/wayne-hwang-0b6aba172/](https://www.linkedin.com/in/wayne-hwang-0b6aba172/))
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswh321@gmail.com)](mailto:guswh321@gmail.com)
+
+<a href="mailto:guswh321@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswh321@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="mailto:guswh321@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wayne-hwang-0b6aba172/]
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)  
