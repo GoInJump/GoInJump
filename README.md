@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 
+<!-- Commit Language -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoInJump&layout=compact)](https://github.com/GoInJump/github-readme-stats)
+
 <!-- Contact -->
 <div align=center><h2>🙏 contact </h2></div>
 
