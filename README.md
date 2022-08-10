@@ -30,12 +30,9 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswh321@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="mailto:guswh321@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wayne-hwang-0b6aba172/]
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
+<a href="[https://www.linkedin.com/in/absphreak](https://www.linkedin.com/in/wayne-hwang-0b6aba172/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>                                                                       
+                                                                       
 <br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
