@@ -2,6 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20This%20is%20Wayne's%20Github&fontSize=55)
 
+<img src="https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif" />
 <br>
 
 <!-- Tech Stack -->
@@ -20,7 +21,7 @@
 
 <!-- Contact -->
 <div align=center><h2>🙏 contact </h2></div>
-<div>
+
 <a href="mailto:guswh321@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswh321@gmail.com"
@@ -31,7 +32,7 @@
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wayne-hwang-0b6aba172/]
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</div>
+
 <br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)  
