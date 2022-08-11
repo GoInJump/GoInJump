@@ -36,6 +36,6 @@
 <a href="[https://www.linkedin.com/in/absphreak](https://www.linkedin.com/in/wayne-hwang-0b6aba172/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>                                                                       
                                                                        
 ---
-<i>Before you go random dev joke for you :)</i><br>
+<i>Before you go, random dev joke for you :)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </div>
